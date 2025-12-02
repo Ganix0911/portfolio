@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pegasus Services | Gandharva Dewan</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&family=Roboto+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ['Montserrat', 'sans-serif'],
+              mono: ['"Roboto Mono"', 'monospace'],
+            },
+            colors: {
+              neon: {
+                red: '#ff0033',
+                dark: '#0a0a0a',
+              }
+            },
+            boxShadow: {
+              'neon': '0 0 10px #ff0033, 0 0 20px #ff0033',
+              'neon-hover': '0 0 20px #ff0033, 0 0 40px #ff0033',
+            }
+          }
+        }
+      }
+    </script>
+    <style>
+      body {
+        background-color: #000;
+        color: #fff;
+      }
+      .neon-text {
+        text-shadow: 0 0 10px #ff0033, 0 0 20px #ff0033;
+      }
+    </style>
+  <script type="importmap">
+{
+  "imports": {
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/",
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "react": "https://aistudiocdn.com/react@^19.2.0",
+    "lucide-react": "https://aistudiocdn.com/lucide-react@^0.554.0"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body>
+    <div id="root"></div>
+  <script type="module" src="/index.tsx"></script>
+</body>
+</html>
