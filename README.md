@@ -1,4 +1,4 @@
-# Pegasus --- Services Portfolio
+# Pegasus Services Portfolio
 
 ### *Where Craft Meets Vision. Where Design Becomes Experience.*
 
