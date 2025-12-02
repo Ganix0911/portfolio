@@ -2,7 +2,7 @@
 
 ### *Where Craft Meets Vision. Where Design Becomes Experience.*
 
-Pegasus is more than a portfolio --- it is a **showcase of mastery**, a
+Pegasus is more than a portfolio. It is a **showcase of mastery**, a
 cinematic walkthrough of services spanning **development, filmmaking,
 design, and digital craftsmanship**.\
 Built with elegance, engineered with precision, and wrapped in an
